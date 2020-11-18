@@ -1,0 +1,7 @@
+
+上传步骤
+git init 初始化
+git add .(把所有文件发送到暂存区）
+git commit -m "备注内容" 发送文本内容
+git remote add origin 库网址  发送到库
+git push -u  origin 本地分支名称  发送 
